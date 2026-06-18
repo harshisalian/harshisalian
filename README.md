@@ -82,6 +82,16 @@
 *   **System Performance Optimization:** Improving application workflows, troubleshooting databases, and utilizing tools like Docker and Linux for enhanced operational reliability.
 
 ---
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harshisalian&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshisalian&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshisalian&layout=compact&theme=tokyonight" />
+</p>
 
 
 ## 🤝 Connect With Me

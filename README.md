@@ -66,25 +66,6 @@ Currently exploring AI-assisted features and FastAPI services alongside the Java
 
 <br/>
 
-## GitHub Stats
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=harshisalian&show_icons=true&hide_border=true&bg_color=00000000&title_color=7C83FD&icon_color=7C83FD&text_color=c9d1d9&text_bold=false" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=harshisalian&show_icons=true&hide_border=true&bg_color=00000000&title_color=5560E0&icon_color=5560E0&text_color=24292f&text_bold=false" />
-  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=harshisalian&show_icons=true&hide_border=true&bg_color=00000000&title_color=7C83FD&icon_color=7C83FD&text_color=c9d1d9" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=harshisalian&layout=compact&hide_border=true&bg_color=00000000&title_color=7C83FD&text_color=c9d1d9" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=harshisalian&layout=compact&hide_border=true&bg_color=00000000&title_color=5560E0&text_color=24292f" />
-  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshisalian&layout=compact&hide_border=true&bg_color=00000000&title_color=7C83FD&text_color=c9d1d9" />
-</picture>
-
-</div>
-
-<br/>
-
 <div align="center">
 
 <sub>B.E. Computer Science & Engineering · Shree Devi Institute of Technology · 2026</sub>

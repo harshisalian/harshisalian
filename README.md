@@ -13,7 +13,7 @@
 <a href="https://www.linkedin.com/in/harshiee-salian"><img src="https://img.shields.io/badge/LinkedIn-7C83FD?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:harshisalian3003@gmail.com"><img src="https://img.shields.io/badge/Email-30363D?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://instagram.com/harshiee.salian"><img src="https://img.shields.io/badge/Art_%26_Designs-30363D?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
-<a href="(https://harshiscomicportfolio.vercel.app/)"><img src="https://img.shields.io/badge/Portfolio-30363D?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://harshiscomicportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-30363D?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 
 </div>
 
@@ -82,20 +82,13 @@ I also enjoy hackathons and technical quizzes.
 
 <br/>
 
-## GitHub Stats
+## On GitHub
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=harshisalian&show_icons=true&hide_border=true&bg_color=00000000&title_color=7C83FD&icon_color=7C83FD&text_color=c9d1d9&text_bold=false" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=harshisalian&show_icons=true&hide_border=true&bg_color=00000000&title_color=5560E0&icon_color=5560E0&text_color=24292f&text_bold=false" />
-  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=harshisalian&show_icons=true&hide_border=true&bg_color=00000000&title_color=7C83FD&icon_color=7C83FD&text_color=c9d1d9" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=harshisalian&layout=compact&hide_border=true&bg_color=00000000&title_color=7C83FD&text_color=c9d1d9" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=harshisalian&layout=compact&hide_border=true&bg_color=00000000&title_color=5560E0&text_color=24292f" />
-  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshisalian&layout=compact&hide_border=true&bg_color=00000000&title_color=7C83FD&text_color=c9d1d9" />
-</picture>
+<a href="https://github.com/harshisalian?tab=repositories"><img src="https://img.shields.io/github/followers/harshisalian?style=flat-square&color=7C83FD&labelColor=30363D&label=Followers" alt="Followers"/></a>
+<a href="https://github.com/harshisalian?tab=repositories"><img src="https://img.shields.io/badge/Public_repos-15-7C83FD?style=flat-square&labelColor=30363D" alt="Public repositories"/></a>
+<a href="https://github.com/harshisalian/financify"><img src="https://img.shields.io/badge/Featured-Financify-7C83FD?style=flat-square&labelColor=30363D" alt="Featured project"/></a>
 
 </div>
 

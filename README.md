@@ -12,7 +12,7 @@
 
 <a href="https://www.linkedin.com/in/harshiee-salian"><img src="https://img.shields.io/badge/LinkedIn-7C83FD?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:harshisalian3003@gmail.com"><img src="https://img.shields.io/badge/Email-30363D?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="[TODO: portfolio URL]https://harshiscomicportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-30363D?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://harshiscomicportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-30363D?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 
 </div>
 

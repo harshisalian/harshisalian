@@ -1,109 +1,94 @@
-# <div align="center">Hi there! I'm Harshitha Salian</div>
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+Engineer;REST+API+Specialist;Software+Engineer" alt="Typing SVG" />
+
+<h1>Harshitha Salian</h1>
+
+<p><b>Full-Stack Software Developer</b> · MERN · Next.js · FastAPI</p>
+
+<a href="https://github.com/harshisalian">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1400&color=7C83FD&center=true&vCenter=true&width=520&height=40&lines=Building+clean%2C+responsive+web+apps;REST+APIs+%C2%B7+React+%C2%B7+Node.js;CSE+graduate+2026+%C2%B7+Open+to+opportunities" alt="Typing intro" />
+</a>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/harshiee-salian"><img src="https://img.shields.io/badge/LinkedIn-7C83FD?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:harshisalian3003@gmail.com"><img src="https://img.shields.io/badge/Email-30363D?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="[TODO: portfolio URL]"><img src="https://img.shields.io/badge/Portfolio-30363D?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+
 </div>
 
----
+<br/>
 
-## 👩‍💻 About Me
+## About
 
-*   **Education:** Bachelor of Engineering in Computer Science & Engineering from Shree Devi Institute of Technology (Graduated: May 2026, CGPA: 8.54).
-*   **Career Objective:** Python Full Stack Developer with hands-on experience developing web applications, REST APIs, and managing databases. 
-*   **Areas of Interest:** Backend Service Integration, Application Performance Optimization, Data Structures & Algorithms, and Full-Stack Development.
-*   **Current Learning Goals:** Actively strengthening Data Structures & Algorithms skills through consistent coding practice on competitive programming platforms.
-*   **Career Aspirations:** Seeking roles as a Software Engineer, Backend Developer, or Python Developer where I can build scalable systems, debug complex issues, and contribute within agile development workflows.
+I'm a Computer Science graduate (2026) from Udupi who enjoys turning ideas into polished, working web products, from the React interface to the API behind it.
+I recently completed a MERN internship where I shipped features in an Agile team, and I'm now looking for a **Software Developer** role in web and application development.
+Currently exploring AI-assisted features and FastAPI services alongside the JavaScript ecosystem. ✨
 
-## 🛠️ Tech Stack
+<br/>
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Go](https://img.shields.io/badge/Go_Basic-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+## Tech Stack
 
-### Backend Development
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+<div align="center">
 
-### Frontend
-![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+| | |
+|---|---|
+| **Languages** | <img src="https://skillicons.dev/icons?i=js,ts,py&theme=dark" alt="Languages"/> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" alt="Frontend"/> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" alt="Backend"/> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis&theme=dark" alt="Databases"/> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,docker,postman&theme=dark" alt="Tools"/> |
 
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+<sub>Also working with: C++ · Framer Motion · Flask · Supabase · Appwrite · Linux · OpenCV · AWS (foundational)</sub>
 
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+</div>
 
-### AI/ML
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+<br/>
 
----
+## Featured Projects
 
-## 🚀 Featured Projects
+<div align="center">
 
-### 💰 Expense Tracker Web Application
-*   **Description:** A full-stack web application enabling users to log, categorize, and view expenses with real-time data display.
-*   **Technologies Used:** Python, Flask, MySQL, HTML, CSS, JavaScript.
-*   **Key Achievements:** Designed MySQL database schema, implemented CRUD operations via Flask routes and REST API endpoints, and optimized full-stack performance for smooth user interactions.
+| Project | What it does | Built with |
+|---|---|---|
+| **[Financify](TODO-repo-link)** | Workforce financial tracking for admins and team leaders: authentication, activity tracking, work-hour monitoring, payroll calculations and team dashboards. 8 REST endpoints serving 1,000+ activity records. | Next.js · React · Express · MongoDB · FastAPI · Redis |
+| **[Nail Health Detection](TODO-repo-link)** | Mobile-responsive app that analyses nail images with AI, shows health tips and suggests nearby doctors. | React · Vite · Appwrite · Gemini Vision API · Google Maps API |
+| **[Portfolio Website](TODO-repo-link)** | Animated, responsive personal site with dynamic blog routes and a contact form with email fallback. | Next.js 15 · React 19 · TypeScript · Framer Motion |
 
-### 🤖 AI-Powered Distributed Web Monitoring & Alerting Platform
-*   **Description:** A scalable backend service platform for real-time web uptime tracking, incident detection, and asynchronous health checks.
-*   **Technologies Used:** Python, FastAPI, Redis, Docker.
-*   **Key Achievements:** Built RESTful APIs, integrated third-party alerting services, and implemented asynchronous task processing using Redis to improve application performance under high-throughput conditions.
+</div>
 
----
+<br/>
 
-## 📜 Certifications
+## Experience Highlights
 
-*   **Data Analytics Job Simulation** - Deloitte (Forage) (June 2026).
-*   **AWS Cloud Practitioner Essentials** - AWS Skill Builder (June 2026).
-*   **Front-End Web Development Fundamentals (HTML5, CSS3, JavaScript)** - Infosys Springboard (Mar 2025).
+- **MERN Stack Intern, Codelab Systems** (Feb–May 2026): built 5 features for an app serving 50+ users, designed and tested 8 REST APIs with Postman, and merged 6 pull requests in a 3-person Agile team.
+- **Intern, KIOCL Limited** (Dec 2025–Jan 2026): built a Python + OpenCV tool that logged CCTV snapshots from 6 cameras into Excel, saving about 4 hours a week.
+- **Team contributor:** part of the 5-member web team behind the Tech Spark event site (200+ registrations) and contributed to the Sambram national fest website.
 
----
+<br/>
 
-## 📈 Learning Journey
+## GitHub Stats
 
-*   **Backend Architecture:** Building scalable services and RESTful APIs using Python, FastAPI, Node.js, and Express.js.
-*   **AWS Cloud:** Certified in cloud infrastructure and essentials through AWS Skill Builder.
-*   **System Performance Optimization:** Improving application workflows, troubleshooting databases, and utilizing tools like Docker and Linux for enhanced operational reliability.
+<div align="center">
 
----
-# 📊 GitHub Stats
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=harshisalian&show_icons=true&hide_border=true&bg_color=00000000&title_color=7C83FD&icon_color=7C83FD&text_color=c9d1d9&text_bold=false" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=harshisalian&show_icons=true&hide_border=true&bg_color=00000000&title_color=5560E0&icon_color=5560E0&text_color=24292f&text_bold=false" />
+  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=harshisalian&show_icons=true&hide_border=true&bg_color=00000000&title_color=7C83FD&icon_color=7C83FD&text_color=c9d1d9" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=harshisalian&layout=compact&hide_border=true&bg_color=00000000&title_color=7C83FD&text_color=c9d1d9" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=harshisalian&layout=compact&hide_border=true&bg_color=00000000&title_color=5560E0&text_color=24292f" />
+  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshisalian&layout=compact&hide_border=true&bg_color=00000000&title_color=7C83FD&text_color=c9d1d9" />
+</picture>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshisalian&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshisalian&theme=tokyonight" />
-</p>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshisalian&layout=compact&theme=tokyonight" />
-</p>
+<br/>
 
+<div align="center">
 
-## 🤝 Connect With Me
+<sub>B.E. Computer Science & Engineering · Shree Devi Institute of Technology · 2026</sub>
 
-<p align="center">
-  <a href="mailto:harshisalian3003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>[
-</p>
+<h4>Let's build something good together.</h4>
 
----
-
-## ⚡ Fun Fact
-
-When I'm not debugging full-stack applications or building RESTful APIs, you can find me competing in hackathons or securing top spots in technical quizzes! 🚀.
+</div>
